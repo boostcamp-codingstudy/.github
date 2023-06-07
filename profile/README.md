@@ -3,7 +3,7 @@
 <table>
     <tr height="160px">
         <td align="center" width="150px">
-            <a href="https://github.com/yongwookim1"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090187-235fa5db-1083-4dd6-879d-5bd9c978726e.png"/></a>
+            <a href="https://github.com/yongwookim1"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090160-3b2797a6-f97f-4f49-bc57-492f55d75742.png"/></a>
             <br/>
             <a href="https://github.com/eogml88"><strong>김대희</strong></a>
             <br />
