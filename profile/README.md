@@ -1,5 +1,5 @@
 <div align='center'>
-<h3><i>NEXT LEVEL ⏯</i></small></h3>
+<h3><i>Coding Study</i></small></h3>
 <table>
     <tr height="160px">
         <td align="center" width="150px">
@@ -38,7 +38,5 @@
             <a href="https://github.com/Jiwonii97"><strong>황지원</strong></a>
             <br />
         </td>   
-      
-    </tr>
 </table>
 </div>
