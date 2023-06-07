@@ -9,7 +9,7 @@
             <br />
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/HipJaengYiCat"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090647-741c7bd8-4751-4e47-b032-b713c8b4e07f.png"/></a>
+            <a href="https://github.com/HipJaengYiCat"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226089694-e9eb25b4-e1ee-4839-9760-7aa1b6611650.png"/></a>
             <br/>
             <a href="https://github.com/HipJaengYiCat"><strong>박승희</strong></a>
             <br />
@@ -21,7 +21,7 @@
             <br />
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/DaHyeonnn"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090168-31293b6b-931e-44d6-8962-13ff2f9cbcce.png"/></a>
+            <a href="https://github.com/DaHyeonnn"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226089694-e9eb25b4-e1ee-4839-9760-7aa1b6611650.png"/></a>
             <br />
             <a href="https://github.com/imsmile2000"><strong>이윤표</strong></a>
             <br />
