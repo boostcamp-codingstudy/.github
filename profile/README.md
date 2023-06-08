@@ -27,6 +27,12 @@
             <br />
         </td>
         <td align="center" width="150px">
+            <a href="https://github.com/Jeon-jisu"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226089694-e9eb25b4-e1ee-4839-9760-7aa1b6611650.png"/></a>
+            <br />
+            <a href="https://github.com/Jeon-jisu"><strong>전지수</strong></a>
+            <br />
+        </td> 
+        <td align="center" width="150px">
             <a href="https://github.com/JaiyoungJoo"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090160-3b2797a6-f97f-4f49-bc57-492f55d75742.png"/></a>
             <br />
             <a href="https://github.com/JaiyoungJoo"><strong>주재영</strong></a>
@@ -37,6 +43,7 @@
             <br />
             <a href="https://github.com/Jiwonii97"><strong>황지원</strong></a>
             <br />
-        </td>   
+        </td>  
+        
 </table>
 </div>
