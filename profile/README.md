@@ -26,6 +26,8 @@
             <a href="https://github.com/imsmile2000"><strong>이윤표</strong></a>
             <br />
         </td>
+    </tr>
+    <tr height="160px">
         <td align="center" width="150px">
             <a href="https://github.com/Jeon-jisu"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226089694-e9eb25b4-e1ee-4839-9760-7aa1b6611650.png"/></a>
             <br />
@@ -44,6 +46,12 @@
             <a href="https://github.com/Jiwonii97"><strong>황지원</strong></a>
             <br />
         </td>  
-        
+        <td align="center" width="150px">
+            <a href="https://github.com/jh58power"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090160-3b2797a6-f97f-4f49-bc57-492f55d75742.png"/></a>
+            <br />
+            <a href="https://github.com/jh58power"><strong>황준하</strong></a>
+            <br />
+        </td>  
+    </tr>
 </table>
 </div>
